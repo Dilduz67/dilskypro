@@ -1,9 +1,7 @@
-def sum_s(x,y):
-    return (x+y)
+def dif_s(x,y):
+    return (x-y)
 a=int(input())
 b=int(input())
-sum_s(a,b)
-print(sum_s(a,b))
+dif_s(a,b)
 
-
-
+print(dif_s(a,b))
